@@ -7,7 +7,7 @@
   
 ### 🚀 About Me
 
-🔭 I'm currently a **Product Development Engineer**  
+🔭 I'm currently a **Product Development Engineer**  & **Emerging Data Engineer**
 🎨 **Fun fact:**  Loves Python, SQL, and data pipelines
 📫 How to reach me: **lazona.colline@gmail.com**  
 
