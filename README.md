@@ -1,12 +1,9 @@
- <div align="center">
+ <div align="right">
   
 # 👋 Hi, I'm **Colline Lazona (colayn)**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Software+%26+AI+Engineer;Data+Engineer;Creative+Problem+Solver;" alt="Typing SVG" />
-
 </div>
 
-<div align="center">
+<div align="right">
   
 ### 🚀 About Me
 
@@ -18,7 +15,7 @@
 
 ---
 
-<div align="center">
+<div align="right">
 
 ## 🌐 Connect with me
 
