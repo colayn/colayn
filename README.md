@@ -22,7 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Micropython](https://img.shields.io/badge/MicroPython-00979D?style=for-the-badge&logo=python&logoColor=white) 
 ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Data Engineering:**  
@@ -41,10 +40,10 @@ ETL/ELT Pipelines | Data Modeling (Star Schema) | Data Cleaning & Validation | D
 ![DBeaver](https://img.shields.io/badge/DBeaver-1790A8?style=for-the-badge&logo=dbeaver&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Metabase](https://img.shields.io/badge/Metabase-00B4FF?style=for-the-badge&logo=metabase&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-1E7D22?style=for-the-badge&logo=winscp&logoColor=white)
 
 **Systems:**  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WinSCP](https://img.shields.io/badge/WinSCP-1E7D22?style=for-the-badge&logo=winscp&logoColor=white)
 
 
