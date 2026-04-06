@@ -1,9 +1,9 @@
- <div align="right">
+ <div align="center">
   
 # 👋 Hi, I'm **Colline Lazona (colayn)**
 </div>
 
-<div align="right">
+<div align="center">
   
 ### 🚀 About Me
 
@@ -15,7 +15,7 @@
 
 ---
 
-<div align="right">
+<div align="center">
 
 ## 🌐 Connect with me
 
