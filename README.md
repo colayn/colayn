@@ -53,8 +53,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=colayn&show_icons=true&theme=radical)
-
 </div>
