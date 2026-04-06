@@ -42,21 +42,9 @@ ETL/ELT Pipelines | Data Modeling (Star Schema) | Data Cleaning & Validation | D
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Metabase](https://img.shields.io/badge/Metabase-00B4FF?style=for-the-badge&logo=metabase&logoColor=white)
 
-**Cloud & Big Data (Foundational):**  
-Databricks (concepts) | Apache Spark (basic) | Cloud Data Platforms (AWS/GCP fundamentals)
-
 **Systems:**  
-Linux (Arch Linux) | Windows | WinSCP
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-1E7D22?style=for-the-badge&logo=winscp&logoColor=white)
 
-**Concepts:**  
-Data Warehousing | Scalable Data Systems | Data Governance | Workflow Orchestration (basic)
 
-**Engineering Practices:**  
-Version Control (Git & SVN) | Debugging & Root Cause Analysis | Documentation
-
----
-
-### 📊 GitHub Stats
-![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=colayn&show_icons=true&theme=radical)
-
-</div>
