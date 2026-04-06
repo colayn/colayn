@@ -26,7 +26,12 @@
 ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Data Engineering:**  
-ETL/ELT Pipelines | Data Modeling (Star Schema) | Data Cleaning & Validation | Data Quality Monitoring | Medallion Architecture | Web Scraping
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-00BFFF?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-FFA500?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data_Quality-9C27B0?style=for-the-badge)
+![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-FF69B4?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-00CED1?style=for-the-badge)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
